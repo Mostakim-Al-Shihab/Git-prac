@@ -1,4 +1,5 @@
 *.log
 *.dat
-static/
-!main.py
+static/*
+!static/logic/
+!static/logic/main.py
